@@ -1,0 +1,439 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the right Christianly departure, or death, of the most Noble Earle Philippus Lodouicus Earle of Hanaw and Rieneck, Lord of Mutzenbergk, &amp;c. Vncle to the Count Palatine. Who blessedly deceased, in the Lord, on Sunday the ninth of August 1612. betwixt eight and nine of the clocke in the morning, being returned from his great ambassage for England. Faithfully penned by Ioannes Appelius preacher at Alten-Hasell. Translanted out of the Germane tongue by S.R.</title>
+            <author>Appelius, Joannes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1612</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20739</idno>
+            <idno type="STC">STC 712</idno>
+            <idno type="STC">ESTC S100203</idno>
+            <idno type="EEBO-CITATION">99836051</idno>
+            <idno type="PROQUEST">99836051</idno>
+            <idno type="VID">294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 294)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 613:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the right Christianly departure, or death, of the most Noble Earle Philippus Lodouicus Earle of Hanaw and Rieneck, Lord of Mutzenbergk, &amp;c. Vncle to the Count Palatine. Who blessedly deceased, in the Lord, on Sunday the ninth of August 1612. betwixt eight and nine of the clocke in the morning, being returned from his great ambassage for England. Faithfully penned by Ioannes Appelius preacher at Alten-Hasell. Translanted out of the Germane tongue by S.R.</title>
+                  <author>Appelius, Joannes.</author>
+                  <author>S. R.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [by Thomas Snodham] for Nicholas Bourne, and are to be sould at the entring in of the Royall Exchange, and at the signe of the Angell in Paules Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1612.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>German original not traced.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Cf. Folger catalogue, which gives signatures: A-D⁴.</note>
+                  <note>With a final dedication leaf in Latin.</note>
+                  <note>Reproduction of the original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hanau Münzenberg, Philipp Ludwig, --  Graf zu, 1576-1612?</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:294:1"/>
+            <pb facs="tcp:294:1" rendition="simple:additions"/>
+            <p>A TRVE RELATION of the right Chriſtianly depar<g ref="char:EOLhyphen"/>ture, or Death, of the moſt Noble Earle <hi>Philippus Lodouicus,</hi> Earle of Hanaw and Rieneck, Lord of Muntzenbergk, &amp;c. Vncle to the <hi>Count Palatine.</hi>
+            </p>
+            <p>Who bleſſedly deceaſed, in the Lord, on Sunday the ninth of Auguſt 1612. betwixt eight and nine of the clocke in the Morning, being returned from his great Ambaſſage for England.</p>
+            <p>Faithfully penned by IOANN APPELIVS Preacher at <hi>Alten-Haſell.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated out of the Germane tongue by</hi> S. R.</p>
+            <q>
+               <bibl>PSALME 146. 4. 5.</bibl>
+               <l>Mans breath departeth, and hee returneth to his earth: then his thoughts periſh.</l>
+               <l>Bleſſed is hee that hath the God of IACOB for his help, whoſe hope is in the Lord his God.</l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for NICHOLAS BOVRNE, and are to be ſould at the entring in of the Royall Exchange, and at the ſigne of the Angell in Paules Church-yard. 1612.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:294:2" rendition="simple:additions"/>
+            <pb facs="tcp:294:2"/>
+            <head>To the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas other men haue lau<g ref="char:EOLhyphen"/>dably deſcribed the Art of well liuing and well dying; I hope it will not be miſcon<g ref="char:EOLhyphen"/>ſtrued if wee doe verifie the ſame, by the examples of thoſe, whom wee haue ſeene depart Chriſtian<g ref="char:EOLhyphen"/>ly. Know you therefore (louing Reader) that the departure of my noble and gracious Lord (of bleſſed memory) is deſcribed by vs, to the end that it might ſerue vnto my Noble and Gracious Lady and her deare Children (as vn<g ref="char:EOLhyphen"/>to a diſtreſſed VVidow and Orphans) for a godly Inſtruction and Conſolation vnto Pati<g ref="char:EOLhyphen"/>ence: conſidering alſo, that particular exam<g ref="char:EOLhyphen"/>ples moue the heart more effectually, then ge<g ref="char:EOLhyphen"/>nerall Precepts or Rules; and becauſe the de<g ref="char:EOLhyphen"/>parture of my gracious Lord is full of Com<g ref="char:EOLhyphen"/>fort and Edification, we thought it not amiſſe
+<pb facs="tcp:294:3"/>
+(being induced by many religiouſly-affected mindes) to communicate the ſame alſo vnto others, which (no doubt) will be taken in good part by all religious Chriſtians, as it is meant by vs.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+            <epigraph>
+               <bibl>TITVS 1. 15.</bibl>
+               <q>Vnto the pure are all things pure: but vnto them that are defiled and vnbeleeuing, is nothing pure, but euen their mindes and conſciences are defiled.</q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:294:3"/>
+            <pb facs="tcp:294:4"/>
+            <pb facs="tcp:294:4"/>
+            <head>A TRVE RELATION of the Chriſtianly departure of the Noble Earle <hi>Philippus Lodouicus,</hi> &amp;c. Vncle of the <hi>Count Palatine.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Noble Earle of <hi>Hanaw</hi> and <hi>Rei<g ref="char:EOLhyphen"/>neck,</hi> hauing happely ended aiourncy of great waight, and being by Gods grace returned vnto his Dominions, did take againc in hand the carefull go<g ref="char:EOLhyphen"/>uernment of the ſame.</p>
+            <p>The Ayre being very hot, his Ex<g ref="char:EOLhyphen"/>cellencie, towards the euening, went diuers times, in his Coach, into the Woods to recreate himſelfe. It happened the 29. day of <hi>Iuly</hi> laſt paſt, that his Excellencie went with ſome of his Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Seruants from his Court to a Pond (called <hi>Krebsbach</hi>) where Lobſtars are fedde, and féeling himſclfe ſome what ill did take his reſt a little in the fields.</p>
+            <p>The next day notwithſtanding hée went to the accuſtomed Wéeke-Sermon, and vnto publicke Prayers at the Church in the old Cittie: but the Sermon being ended, hée felt himſelfe not well, and went to reſt on his bedde.</p>
+            <p>The 31. of <hi>Iuly</hi> and firſt of <hi>Auguſt,</hi> the weather being very hot, and hée féeling great heate in his body, was led into diuers roomes for to reſt and take the freſh ayre.</p>
+            <p>
+               <pb facs="tcp:294:5"/>The 2. of <hi>Auguſt,</hi> by the counſell of Phiſitians, hée was let bloud, and tooke Phiſicke, whereby hée found himſelfe ſo reſto<g ref="char:EOLhyphen"/>red that he put on his garments, and went to viſite his louing Wife, lying in Childe-bed, who ſome few dayes before was deliuered of a goodly Sonne.</p>
+            <p>On the ſame day his Excellencie called to him one of his Counſellours, and reaſoned with him about diuers matters, but chiefly concerning the Church of <hi>Hanaw.</hi>
+            </p>
+            <p>The third day of Auguſt being Munday, his Excellencie fell ſicke againe, and began to prepare himſelfe for a bleſſed and Chriſtian departure, with a wonderfull conſtancy and courage, giuing an account of his faith with a ſingular zeale in the pre<g ref="char:EOLhyphen"/>ſence of his Wife and Children, who were called to him for that purpoſe. And although hée had comforted his wife in very good ſort, admoniſhing her alſo vnto Chriſtian patience, yet notwithſtanding (ſhée being retyred) hée tooke his leaue of his Children, and others that were about him, in the preſence of diuers of his Counſellours and Courtiers, in a very religious manner he ſpake vnto euery Childe in particular, praying ouer them, and giuing his bleſſing vnto them, adding thereunto his fatherly admonitions vnto true pietie and vertue, thus com<g ref="char:EOLhyphen"/>mitted them vnto the protection of Almightie God through Ieſus Chriſt: Euen as wée read <hi>Geneſis 49.</hi> of the holy Pa<g ref="char:EOLhyphen"/>triarch <hi>Iacob.</hi> All this hée did with ſuch comfortable words, and reſolute minde, that the whole roome was filled with the ſighes and teares of the beholders, who wondred at the ſame, and thankhd God for that rich meaſure of his ſpirit beſtowed on him.</p>
+            <p>The heauineſſe of our ſorrow made that wee could not re<g ref="char:EOLhyphen"/>member the very words of his prayers and admonitions, but the Chriſtian Reader may partly vnderſtand what they were, by that which followeth, and happened the Thurſday fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>The ſpéech vnto his Children being ended, hée ſpake vnto his Councill in generall, and vnto euery one in particula<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, of thoſe things that concerned the Church and Schoole, the Country and Subiects, and ſo tooke his leaue of them.</p>
+            <p>
+               <pb facs="tcp:294:5"/>The Councill being retyred, diuers Gentlemen, Courti<g ref="char:EOLhyphen"/>ers, came vnto him at his requeſt, and with many teares and ſighes, taking their deare Lords hand, went with a ſorrowfull heart from him.</p>
+            <p>Diuers Citizens dwelling in the old and new Towne, came at his citation alſo before his bed, hée ſpake very com<g ref="char:EOLhyphen"/>fortably vnto them, and ſtretching his hand out vnto them, with much ſorrow, they tooke their leaues of him: this being done, his Excellencie asked whether there were any body elſe to take leaue of him.</p>
+            <p>The Preachers of both the Cities were likewiſe called for, and hée declared in their preſence, that his ſingular deſire was, to receiue yet once before his end (with his houſe) the holy Supper of our Lord Ieſus Chriſt, euen as the Lord Ie<g ref="char:EOLhyphen"/>ſus had ordained the ſame ſhortly before his death and Paſſion. Hée added hereunto a farther expoſition of his demaund: that his requeſt was not grounded on Superſtition, or on that error, that <hi>ex opere operato,</hi> the ſame were meritorious: but whereas hée had béene a certaine time in forraine Coun<g ref="char:EOLhyphen"/>tries, and had not found the fit occaſion to receiue the ſame in the Church and Congregation of the faithfull, his requeſt was to receiue, for the ſtrengthening of his weake Faith, and to teſtifie his Profeſſion yet once againe before God and the World.</p>
+            <p>The Preachers had nothing to reply vnto ſuch a reaſona<g ref="char:EOLhyphen"/>ble and religious requeſt, and therefore performed the ſame out of hand.</p>
+            <p>The Confeſſion which his Excellencie at that time vtte<g ref="char:EOLhyphen"/>red with Chriſtian attention, was after this manner: <hi>viz.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>I Thanke my GOD from the bottome of my heart, in the Name of my Lord Ieſus Chriſt, that I haue liued vnto this day: in which I am able to receiue, yet once againe before my departure out of this world, the holy Supper of my Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt. I neuer had a more ioyfull banquet then this: I haue ſitten at the Table of great Kings and Princes, where all things were coſtly, and pompouſly prepared, but the cheare of
+<pb facs="tcp:294:6"/>
+the Croſſe of Chriſt, as now it is ſet before the eyes of my Soule, appeares more glorious vnto m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> O my deare Preacher, I proteſt before thee, as the ordained Miniſter of Ieſus Chriſt, that I doe ſpeake theſe wordes without hypocriſie, from a true ioy, and deſire which I haue to enioy the body and bloud of Ieſus Chriſt in Faith, through the operation of the holy Spirit.</hi>
+               </p>
+            </q>
+            <p>Afterward he continued his ſpéech thus:</p>
+            <q>
+               <p>
+                  <hi>I Praiſe and thanke my God, that he hath created mee a man, with reaſon and vnderſtanding, that hee hath preſerued my body, Soule and limmes vntill this houre, deliuered me from many ſorrowes and dangers, beſtowed on mee very much good, exalted mee vnto great honour; and chiefely, that hee hath ſo directed the going out and in of my late Voyage, that I am returned vnto mine in good health and diſpoſition.</hi>
+               </p>
+               <p>
+                  <hi>And whereas now a dayes many and diuers Religions are found in Europe, I thanke my God, that hee hath let me come vnto this Religion, where I doe ſeeke my ſaluation onely in his mercy declared vnto vs in Ieſus Chriſt. For I know by expe<g ref="char:EOLhyphen"/>rience, and doe alſo teſtifie the ſame openly, that I haue found in all my griefes and temtations, a firme comfort in the con<g ref="char:EOLhyphen"/>feſſion of this my Faith, being grounded onely on the Wri<g ref="char:EOLhyphen"/>tings of the holy Prophets and Apoſtles of the old and new Teſtament I am therefore aſſured in my heart that this is the true Religion and Confeſſion of God, whereby ſure ſaluation is to be found, and hoped for.</hi>
+               </p>
+               <p>
+                  <hi>I thanke likewiſe all thoſe good men, whom God hath im<g ref="char:EOLhyphen"/>ployed as meanes and inſtruments, by whoſecare, ſeruice and diligence I was brought vnto this profeſſion. I will alſo that my Children be brought vp and perſeuere therein. Beſides this I admoniſh you Paſtors to be faithfull and diligent in your charge as hitherto you haue beene, that ſo you may giue a good ac<g ref="char:EOLhyphen"/>count vnto God. And now I place my ſelfe before Gods face, as a poore ſinner that hath deſerued Hell and eternall death: but I beleeue firmely that Ieſus Chriſt, true God and Man, is my Sa<g ref="char:EOLhyphen"/>uiour: (who as the Lambe of God, hath boren my ſinnes vpon
+<pb facs="tcp:294:6"/>
+the Croſſe, and deliuered me out of the power of Sathan) and that he will, before my end, ſtrengthen my weake faith with his holy Supper. I teſtifie alſo before God and you his Miniſters, that I haue forgiuen, and doe forgiue with my hart all thoſe that haue offended me: and I pray likewiſe for pardon, for wee are men, and the righteous man falleth ſeauen times a day.</hi>
+               </p>
+               <p>
+                  <hi>And becauſe many men haue thought that I beare an euill hart againſt my deere brother <hi>Count Albrecht, &amp;c.</hi> I proteſt that I alwayes was truely and brotherly affected, and my Con<g ref="char:EOLhyphen"/>ſcience doth witneſſe vnto me, that concerning our controuer<g ref="char:EOLhyphen"/>ſie (vvhich I haue ſubmitted vnto the Law) I am not altered a<g ref="char:EOLhyphen"/>gainſt him: and I doe not in that regard feare the iudgement ſeate of GOD: Haue you therefore a care to tell him thus much from me: Pray and admoniſh him alſo to let the Law haue his courſe, and to deale faithfully with my Widdow and Orphanes, the Lord will reward him for it, and he ſhall keepe a good con<g ref="char:EOLhyphen"/>ſcience.</hi>
+               </p>
+               <p>
+                  <hi>Finally, I teſtifie by this holy Supper, that if it pleaſe the Lord to reſtore vnto me my health, (vvhich I doe fully leaue to his good pleaſure) I will to his praiſe and honour amend my life, endeauouring that which is good, and ſhunning all wicked<g ref="char:EOLhyphen"/>neſſe; yet all this onely by his help, grace and aſſiſtance.</hi>
+               </p>
+            </q>
+            <p>Thus did his Excellencie giue a true and conſtant profeſ<g ref="char:EOLhyphen"/>ſion of his Faith, not with one breath, but at diuers times as his ſtrength would permit.</p>
+            <p>The dutch Preacher of the old Citie, before the Commu<g ref="char:EOLhyphen"/>nion made a ſhort Sermon: ſome fouretéene did communi<g ref="char:EOLhyphen"/>cate: the action was concluded with the accuſtomed thankeſ<g ref="char:EOLhyphen"/>giuing and prayers.</p>
+            <p>Munday about the Euening, his Excellencies Steward came vnto him, and conferred with him about matters that belonged to the Court, and the education of his children: but that night he could not ſléepe, therfore he cauſed godly pſalmes to be ſung, and he himſelfe ſung alſo.</p>
+            <p>Tueſday the .4. of <hi>Auguſt,</hi> hauing paſſed a heauy night, he found himſelfe reaſonable well, ſo that hee cloathed himſelfe, intending to viſit his wife, but being ouer-wearied hée left it.
+<pb facs="tcp:294:7"/>
+He cauſed diuers letters to be brought before him, which hée ſealed with his owne hand, and went to take the ayre at the window: toward night he felt himſelfe againe weake.</p>
+            <p>The 5. of <hi>Auguſt,</hi> hee cauſed his laſt <hi>Will</hi> and <hi>Teſtament,</hi> which was ſealed vp, to be brought vnto him, and did reade the ſame, and willed ſomething to be added thereunto, concer<g ref="char:EOLhyphen"/>ning his Chamberlaine, which being done, he gaue the ſame vnto his Chamberlaine, charging him to deliuer the ſame vn<g ref="char:EOLhyphen"/>to his Counſell.</p>
+            <p>Next morning there came vnto his Excellencie the Noble Lady <hi>Emilia</hi> of <hi>Orange,</hi> Siſter of his wife, from <hi>Heydelberg,</hi> whom hée receaued with teares, and ſaid: <hi>Many haue ſtood weeping about my bedde, but none could breake my heart, and prouoke my teares but your Ladyſhip.</hi> About the ſame time came diuers of his ſeruants home from the Sermon made on the monthly prayer-day, and his Excellencie would heare of euery one of them ſome good doctrine, or comfortable ſentence brought from thence, which being performed by them, hée heard it with great contentment. His wife came alſo the ſame day againe to viſite him, whom hée receaued with kinde and comfortable words, and ſhortly after ſhe went from him.</p>
+            <p>The euening and night approaching his Excellencie be<g ref="char:EOLhyphen"/>came very heauy, ſo that not onely the Phiſitians with their Art, but alſo the Diuines with their conſolations had enough to doe: at his Excellencies requeſt diuers penitenciall Pſalmes were ſung, namely, the ſixt, thirty-eight, and others. I tooke occaſion at the ſame time to comfort his Excellencie with the hope which yet wee had that God would prolong his life, and make him ouer-goe, by patience, the ſmarting paines and weakneſſes of his body, but when as I perceiued by his words and countenance that ſuch comfort was not acceptable vnto him, I went on, and ſaid that his Excellencie had not onely to looke what were good for himſelfe, but alſo for his Country and poore people, affirming, we doe not enuie heauen and life euer<g ref="char:EOLhyphen"/>laſting vnto your Excellencie, but what if the Lord God would preſerue you to be a comfort and protection of this Country and Church yet certaine yéeres, as it happened in <hi>Ezechia,</hi>
+               <pb facs="tcp:294:7"/>
+would not you follow this will of God? The King <hi>Ezechia</hi> himſelfe required ſuch prolongation chiefely, for the Church and Countries ſake.</p>
+            <p>The ſame night I propounded vnto him the words of our Sauiour <hi>Math. 11. 28. Come vnto mee all ye that are wearie and laden, and I will eaſe you.</hi> The Doctor rehearſed the ſen<g ref="char:EOLhyphen"/>tence <hi>Ioh. 6. 37. Him that commeth to mee I caſt not away.</hi> Whereupon his Excellencie repeated often theſe words, <hi>Come,</hi> and <hi>Not caſt away,</hi> reſiſting therewithall his tentations, and ſaid finally, <hi>Ah my Lord Ieſu, I come vnto thee, thou wilt not caſt me away.</hi>
+            </p>
+            <p>Beſides this, hée ſaid vnto the Preacher of the old Citie, <hi>Now I ſeele your comfort, the vertue of Chriſts blood doeth now refreſh my heart, I feele now the forgiueneſſe of my ſinnes, and that I am a childe of God and heyre of life eternall.</hi>
+            </p>
+            <p>The next Morning his Excellencie deſired to be remoued into a large roome newly built, becauſe (as he had told vnto his Chamberlaine) the dead body might the eaſier be prepared by the Phiſitians for the buriall.</p>
+            <p>In this new roome, came vnto him his wife, with the afore<g ref="char:EOLhyphen"/>ſaid Lady of <hi>Orange,</hi> and there he ſubſcribed and ſealed diuers Letters.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> The ſixt of <hi>Auguſt,</hi> before the breaking of the day, came vnto him at his requeſt the Lady of <hi>Orange,</hi> and he ſpake with her about the Prince <hi>Palatins</hi> widow at <hi>Herdelberg,</hi> the Ducheſſe of <hi>Bouillon,</hi> and other friends, telling her what he would haue ſaid and written vntothem: hereupon he ſaid vnto her in french <hi>Ah my louing and vertuous Lady, I am a ſicke man! Rehearſe vnto me ſome comfortable ſentence.</hi> She anſwered: My déere Lord and Brother, I ſée you ſo richly furniſhed with the com<g ref="char:EOLhyphen"/>fort of Gods holy ſpirit, that I cannot comfort you any further. His Excellencie vrging to haue from her, out of Gods word, ſome ſentence, ſhe aleadged the words of our Sauiour, <hi>Iohn 3 16. God ſo loued the world, that hee hath giuen his onely be<g ref="char:EOLhyphen"/>gotten Sonne, that whoſoeuer beleeueth in him ſhould not pe<g ref="char:EOLhyphen"/>riſh but haue euerlaſting life:</hi> and added, comfort your ſelfe héerewithall my déere brother: his Excellencie anſwered, <hi>well
+<pb facs="tcp:294:8"/>
+ſayd my Lady; This is the greateſt and ſureſt comfort of the faithfull: with this comfort will I dye happily: I beſeech my lo<g ref="char:EOLhyphen"/>uing God from my hart for ſuch a bleſſed departure, through the vertue of the ſatisfaction of my Lord Ieſus Chriſt. Whatſo<g ref="char:EOLhyphen"/>euer you ſhall aske the Father in my name, hee will giue it vnto you. O Lord Ieſus Chriſt I commit my Soule into thy hands, now and at all times.</hi>
+            </p>
+            <p>His Excellencie cauſed the Germane Bible to be giuen to me, and deſired to heare ſome obſeruations on the 91. <hi>Pſalme,</hi> but the french Preacher entring, drew him ſome comforts out of the 90. and 91. <hi>Pſalme:</hi> Then his Excellencie ſaid vnto the Preacher, <hi>Ah, I am a very ſicke man! I haue had a heauy night, but I confeſſe that my ſinnes haue deſerued this and more then this; yet I comfort my ſelfe with the mercy of my Lord Ieſus Chriſt, by whoſe vertue and interceſſion, no heauier croſſe ſhall be layd on me then I ſhall be able to beare; hee knowes what is beſt for vs, hee diſſembleth not with vs, I relye on him.</hi>
+            </p>
+            <p>The Preacher anſwered, your Excellencie be comforted and be patient: Chriſt is that good ſhepheard that giueth vnto his ſhéepe euerlaſting life; hée hath receiued them into his hands from his Father, and kéepeth them faithfully, that none of them be taken out of his hands: your Excellencie hath heard, beléeued and followed the voyce of the ſaid Shepheard.</p>
+            <p>That is it (ſaid his Excellencie) which now the diuell ſet<g ref="char:EOLhyphen"/>teth before mée, and troubleth me, becauſe I haue not heard and followed the voyce of my Shepheard.</p>
+            <p>The Miniſter anſwered: The Diuell alwayes followeth his old cuſtome, from whence hée is called a Lyar and a Mur<g ref="char:EOLhyphen"/>therer: for hée lyeth accuſing your Excellencie not to haue heard nor followed at all, the voyce of Chriſt your ſhepheard. It is plaine that your Excellencie neuer deſpiſed the ſame, but heard and followed it, though it may be not alwayes with ſuch earn<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſſe and zeale as was required. And what if your Excellencie had not yet heard nor followed the voyce of that good ſhepheard? it is not yet too late to doe the ſame: you read in the 95. <hi>Pſalme, 7. 8. To day if you will heare his voyce, har<g ref="char:EOLhyphen"/>den not your hart:</hi> This preſent howre and moment is promi<g ref="char:EOLhyphen"/>ſed
+<pb facs="tcp:294:8"/>
+in the holy Scriptures. Pray yet in Chriſt Ieſus his name for the pardon of your ſinnes, and this day they ſhall be pardo<g ref="char:EOLhyphen"/>ned vnto you, for ſo ſpeaketh and promiſeth God: <hi>As true as I liue, I deſire not the death of ſinners, but that they repent &amp; liue.</hi>
+            </p>
+            <p>The Lady <hi>Emilia</hi> being preſent, his Excellencie ſaid vnto her, this night I could not vnderſtand nor receiue conſolation, but now I vnderſtand and receiue it very well. Héerevpon I anſwered, The Lord be prayſed, that now your Excellencie receiueth the ſame, <hi>Confirmet Deus quod operatus eſt. <hi>Pſal. 68.</hi>
+               </hi>
+            </p>
+            <p>This day his Excellencie cauſed certaine little Prayer bookes (with which hee often had vſed to exerciſe himſelfe) to be brought to his bedde, and ordayned for euery Childe one, for a remembrance, writing therein their ſundry names, and ad<g ref="char:EOLhyphen"/>ding there vnto his Chriſtian vow and fatherly admonition.</p>
+            <p>The eldeſt Sonne <hi>Philippus Mauritius,</hi> receiued from his Father the Germane Bible, which his Excellencie had taken along with him in <hi>Bohemia, France, England,</hi> and other Coun<g ref="char:EOLhyphen"/>tries, and in the which hée did reade, or cauſed to be read euery Morning and Euening certaine Chapters, whereof hée noted with blacke, greene, or red Incke, the chiefe heads, and on the Margine wrote the true vſes thereof in ſhort words, as a faith<g ref="char:EOLhyphen"/>full Miniſter ſhould doe in his calling. Hence it appeareth that his Excellencie hath ſought the Lord Ieſus his Sauiour (ac<g ref="char:EOLhyphen"/>cording to his commandement <hi>Iohn 5.</hi>) in the Scriptures only, and hath found him, and in him life eternall and true ſaluation.</p>
+            <p>The words written for his eldeſt Sonne were theſe:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>MY Sonne PHILIPPVS MAVRITIVS, Count of Hanaw: Feare GOD, and keepe his Commaundements. I haue beene this night in great anguiſh, I haue thought on ma<g ref="char:EOLhyphen"/>ny things, which I wiſh you could know, my Childe; yet this I tell you: Keepe thy ſelfe all thy life time cloſe vnto thy God, his helpe and aſſiſtance is neceſſary vnto thee, would to God that I could write, the great richeſſe of his mercy, goodneſſe and faithfulneſſe, experimented by mee theſe former dayes. I haue the foretaſte of the eternall glory: The Lord helpe thee vnto mee in due time. <hi>Amen.</hi> In theſe pangs of death I doe deſire to
+<pb facs="tcp:294:9"/>
+be deliuered, and to be with my Lord Ieſus Chriſt. O Ieſus Chriſt thou faithfull Sauiour, how doe I loue thee? thy promiſes are true, thy loue is great, thy heart is faithfull towards me; I com<g ref="char:EOLhyphen"/>mend my Spirit into thy hands, thou faithfull God, thou haſt deliuered and ſanctified mee. Lord, I waite on thy ſaluation.</p>
+                  <closer>
+                     <signed>Thy faithfull Father PHILIPPVS LODOVICVS.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The ſecond Sonne <hi>Willelmus Reynhart</hi> receiued his booke with theſe wordes:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>MY deare Sonne, ſerue thy God with thy whole hart, in ſpi<g ref="char:EOLhyphen"/>rit and truth; I haue deſtinated thee therevnto: Eſteeme it not to be a ſhame for thee to ſerue GOD and his Church. GOD is the greateſt Lord, thy Creator: Keepe in honour the true ſeruice of God: Obay and ſerue thy deare Mother, vnder whoſe hart thou haſt line: Honour and ſerue thy eldeſt Brother as thy Lord, for ſuch is the ordinance, and alſo my will: Beare with him; if thou be in the right then art thou happier then he: if thou doſt not walke vprightly in thy wayes, then art thou not happy. Loue thy Brother and Siſters from thy hart: Loue thy houſe, doe good vnto the poore according to thy abilitie, then ſhall the Lord bleſſe thee: Beware of drinking, diſſolutenes and vncleane ſpeaches, as of fire: Honour thy ſtate: Be induſtrious in all things: Reade and practiſe continually the 119. Pſalme: Let thy Aſtrologians be the 28. Chapter of <hi>Deutronomium.</hi>
+                  </p>
+                  <closer>
+                     <signed>PHILIPPVS LODOVICVS Thy faithfull Father vnto death.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The eldeſt Daughter, Lady <hi>Charlotte Loiſa,</hi> receiued her booke, with theſe words:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:294:9"/>
+                  <pb facs="tcp:294:10"/>
+                  <pb facs="tcp:294:10"/>
+                  <p>FEare, Honour and loue thy GOD from thy hart: haue his Commaundements continually before thine eyes; take thy delight therein: Honour with a filiall obedience thy louing Mother: Keepe thy mouth cloſe with a locke: Eſteeme honeſty and modeſty aboue all the treaſures of the world. God bleſſe thee my louing Childe.</p>
+                  <closer>
+                     <signed>Thy faithfull Father vnto death.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The ſecond Daughter, Lady <hi>Amalia Eliſabetha,</hi> receiued her booke, with theſe words:</head>
+                  <p>HAue GOD before thine eyes: Honour thy Mother with obedience: Keepe honeſty and modeſty, that will be thy beſt iewell and riches.</p>
+                  <closer>
+                     <signed>Thy faithfull Father vnto death.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The youngeſt Daughter, Lady <hi>Catharina Iuliana,</hi> receiued her booke with theſe wordes:</head>
+                  <p>DEare Childe, be vertuous; Haue thy Creator before thine eyes; Feare thy God all the dayes of thy life; Loue thy Sa<g ref="char:EOLhyphen"/>uiour, who ſhed his precious blood for thee; Breake thy euill will; Be humble and obedient: Humilitie, Honeſtie, and Silence doe more adorne a Lady, then either Pearles or other coſtly iewels.</p>
+                  <closer>
+                     <signed>Thy faithfull Father vnto death.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:294:11"/>
+            <p>His Excellencie cauſed alſo the lately borne Lord to be brought before his bedde, he ſighed heartely ouer him, touched him with his hand, and prayed, that the Lord would alſo bleſſe that Childe, and giue it grace to be well and Chriſtianly brought vp.</p>
+            <p>Theſe Children being thus bleſſed by his Excellencie, and committed vnto God, I doe not doubt but that theſe ſighes and prayers are pierced through the clouds and come vnto God, yea are written in his booke, and that we ſhall ſee in due time the effects thereof abundantly, according to the true pro<g ref="char:EOLhyphen"/>miſe of God, <hi>Eſa. 65. 23. My elect ſhall not labour in vaine, nor bring forth in feare, for they are the ſeede of the bleſſed of the Lord, and their buds with them. <hi>Alſo Pſal. 145. 19.</hi> The Lord will fulfill the deſire of them that feare him, he alſo will heare their cry, and will ſaue them.</hi>
+            </p>
+            <p>The Lord, according vnto his great mercie, grant vnto theſe bleſſed Children, euen the ſame ſpirit, by whom they muſt be bleſſed, that they may alwayes haue before their eyes, the zealous prayers and ſighes of their father, for to ſtirre them vp vnto true pietie and vertue, not deſpiſing and leeſing (as wicked Eſau did) the bleſſing, but kéeping it on them, according to the promiſe: <hi>I ſhew mercie on thouſands that loue me and keepe my commandements.</hi>
+            </p>
+            <p>His Excellencie being riſen a while, that his bedde might be made, looked on his new Chamber-clarke, ſtretched his hand out vnto him, and ſaid, <hi>I haue not yet taken leaue of you, I will doe it now. Thinke on your Oath, and calling; hold God before your eyes, be faithfull vnto him, and you ſhall keepe a good conſcience, and, no doubt, be faithfull vnto me and mine. The Lord giue thee grace therevnto.</hi>
+            </p>
+            <p>Due of his Counſelors comming into the Chamber as his Excellencie was to lye downe againe, his Excellencie ſtretch<g ref="char:EOLhyphen"/>ed his armes out, and ſaid, with great affection. <hi>Ecce Diuinum Miraculum, Hominem iam mortuum, viribus tamen adhuc inte<g ref="char:EOLhyphen"/>grum.</hi> Loe a diuine miracle, a man already dead, yet hauing his full ſtrength: for his Excellencie did féele himſelfe yet ſtrong, thence he feared a heauie departure.</p>
+            <p>
+               <pb facs="tcp:294:11"/>His Excellencie cauſed diuers things to be read vnto him, out of a little Song-booke Printed in <hi>Lubeck, Anno 1607.</hi> which beginneth thus:</p>
+            <q>
+               <lg>
+                  <l>Ach Gott wenn ſol ichs klagen.</l>
+                  <l>Mein Angſt vnnd Ellend ſchwer</l>
+                  <l>Ich mocht wol gar verzaghen</l>
+                  <l>Wann Herr dein troſt nicht wer, &amp;c.</l>
+               </lg>
+            </q>
+            <p>And tooke the ſame vnto him, and in the margant wrote theſe words, <hi>This ſong haue I vſed many yeeres:</hi> and com<g ref="char:EOLhyphen"/>manded as ſoone as hée ſhould be departed, to lay the ſame (the booke being opened) vpon his hart.</p>
+            <p>On the ſaid day did his Excellencie call before him all the Miniſters of the old and new Citie, wherevnto were ioyned ſome Country Miniſters, with whom his Excel<g ref="char:EOLhyphen"/>lencie did diſcourſe of the true faith and chriſtian departure, and told vnto them, that he would not be in this his weak<g ref="char:EOLhyphen"/>neſſe without a Preacher.</p>
+            <p>His Excellencie did often ſigh, and pray from his hart, for mitigation of his paines and ſhortning of the pangs of death, as alſo for an vnderſtanding end, beſides this, vtter<g ref="char:EOLhyphen"/>ed many excellent and comfortable ſpeaches, to the ioy and admiration of the aſſiſtants, which were not remembred, nor noted, becauſe no body did thinke that death was at hand, yet whereas many of them were repeated by him the Friday enſuing, I haue ſet them downe in writing.</p>
+            <p>On Friday the 7. of <hi>Auguſt,</hi> when his Excellencie no doubt did féele that the houre of death did approach, and that his hart was full of Godly comfort, his Excellencie began againe to ſpeake with a ſingular zeale, of the miſerie of this life, of the death of a Chriſtian, and of eternall ſaluation: I was preſent at that time, and did admit no other then my ſelfe: from that time forward, the chiefeſt ſpeaches which I noted were theſe.</p>
+            <p>Should I not kéepe that which I haue promiſed vnto my
+<pb facs="tcp:294:12"/>
+God? I haue promiſed to follow him, when and whether ſo<g ref="char:EOLhyphen"/>euer hee doe call me. He calleth mée now, I am now vpon the way, ſhould I turne backe againe? Should I thruſt my ſelfe againe into ſuch vnquietneſſe? I thanke God that I am thus farre deliuered thereof. Should I polute my ſelfe a<g ref="char:EOLhyphen"/>gaine with ſinne, from the which my Lord Ieſus Chriſt hath fréed me? Ah my deare friends (thus he ſpake vnto vs the aſſiſtants) how well ſhould your matters ſtand, if they ſtood, as mine doe? Ah louing Sirs, I haue ſeene the glorie of God, what care I for this world? I haue kiſſed the hem of the garment of my Lord Ieſus Chriſt, I doe now clime on the Ladder of <hi>Iacob</hi> vnto heauen, toward my God and Sauiour, ſhould I be ſo ſottiſh as to take a péece of wood for a péece of Gold? What if many millions of Gold were giuen vnto mee to ſpend, I would account it nothing: worldly things doe periſh.</p>
+            <p>Whileſt his Excellencie was ſpeaking theſe things, hée caſt his armes from him, and ſaid, all things doe now ſtincke vnto mee: tell this vnto my Children, and chiefely vnto their Steward, that they doe not endeauour for worldly matters, but that they put their truſt on God. Ah my deare people, how much trouble haue you with mee miſerable creature? I will thanke you all in heauen, ſome of you will ſhortly follow mée. My wife gaue mée leaue to trauaile into England, why ſhould ſhée not giue me leaue to goe vnto my louing God, yea, ſaid I: into that Celeſtiall Engelland where the holy Angels praiſe God, as they did at <hi>Bethlem?</hi>
+            </p>
+            <p>And when I would comfort his Excellencie with the hope of recouerie of his health, hee anſwered very earneſtly theſe words.</p>
+            <p>My louing Miniſter, can you counſell me with a good con<g ref="char:EOLhyphen"/>ſcience, that I ſhould thruſt my ſelfe againe into this wicked and troubleſome world?</p>
+            <p>On Friday Morning his Excellencie charged to ſhut all the doores and to admit no man vnto him, that hée might not be ſéene vncouered becauſe of the excéeding great heat. But
+<pb facs="tcp:294:12"/>
+about the Euening, beginning againe to ſpeake very com<g ref="char:EOLhyphen"/>fortably of eternall life, hée cryed twiſe with a loude voyce, Open all the doores, let all my people come in, that they may ſée how ioyfully I dye, that they all, may be comforted by my example. Hee thought alſo on his Wife in Childe<g ref="char:EOLhyphen"/>bed, and ſaid: How well and wiſely doth the Lord ordaine all things? hee hath deliuered my Wife from the pangs and labour of Childe-birth, that ſhée ſhould not haue two griefes at once: ſhée will the ſooner paſſe ouer the griefe of my departure.</p>
+            <p>The Phiſitians counſelled his Excellencie not to ouer<g ref="char:EOLhyphen"/>weary himſelfe by too much ſpeaking, wherevnto he anſwe<g ref="char:EOLhyphen"/>red, Should I not ſpeake of my louing God? he hath giuen mée a tongue to that end.</p>
+            <p>They did likewiſe diſſwade him from taking the freſh Ayre, by opening of a window: his Excellencie anſwered, Should I not behold the faire heauens, whether I ſhal come anone?</p>
+            <p>When his Excellencie did ſée, through the window, his new built Turret, and ſpake of it: I ſaid, This is a fayre Turret, but your Excellencie knoweth well which is the ſpirituall Turret of our ſoules, from thence ſhall you receiue helpe and conſolation: his Excellencie ſaid héerevpon, Good<g ref="char:EOLhyphen"/>night, and cauſed the window to be ſhut, and looking on his bed, ſaid, Chriſt hath ſuffered for me at the fearefull Croſſe, I am not worthy of this eaſe: I anſwered, your Excellencie is worthy of it, and ſeeing God hath giuen you the ſame re<g ref="char:EOLhyphen"/>ceiue it thankfully.</p>
+            <p>Lying on his bed he ſtretched his right legge on the ſide, ſtoke his hand on it, and ſaid, O you deere legge, you haue had a long time no reſt, your reſt draweth néere. One of his Exceilencies ſeruing-men going out of the Chamber, his Excellencie commended vnto me his diligence and faithful<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>His Excellencie did lift vp to heauen his hands and eyes very often, and ſaid, O thou great and ſtrong God, Thou
+<pb facs="tcp:294:13"/>
+almightie God, Thou holy God, Thou good and true God, and added alwaies therevnto ſome ſhort and feruent prayer. Docter <hi>Luther</hi> calleth ſuch prayers <hi>Stoſsgebete,</hi> that is, thruſting, or thronging prayers, becauſe they come from the zealous heart with force, and are caſt out before the mercie ſeate of God, according vnto the ſpeach of the 55. <hi>Pſalme, Caſt thy burthen vpon the Lord.</hi>
+            </p>
+            <p>His Excellencie did alſo often repeate theſe ſentences,
+<q>
+                  <bibl>Pſalme 50. verſe 15.</bibl> Call vpon mee in the day of trouble, ſo will I deliuer thee, and thou ſhalt glorifie mee.</q>
+               <q>
+                  <bibl>Pſalme 91. 15.</bibl> Hee ſhall call vpon mee, and I will heare him, I will be with him in trouble, I will deliuer him, and ſhew him my ſaluation.</q>
+               <q>
+                  <bibl>Philip. 1. 23.</bibl> I deſire to be looſed and to be with Chriſt.</q>
+               <q>
+                  <bibl>Pſalme 27. 14.</bibl> Hope in the Lord, be ſtrong, comfort thine heart, and truſt in the Lord.</q>
+            </p>
+            <p>
+               <hi>I depart in peace and in ioy, ſhould not I be glad? I haue obtayned of my God what I demaunded, yea, more then I requeſted.</hi>
+            </p>
+            <p>His Excellencie could not be ſatiſfied with the 23. <hi>Pſalm The Lord is my ſhepherd:</hi> hée cauſed mée to reade the ſame thrée times: and as once I read theſe words, <hi>yea, though I ſhould walke through the darke valley,</hi> his Excellencie ſaid, that darke valley is now vnto me reaſonable light. O Lord ſtay (thine anger) from me, that I may be refreſhed before I goe hence. Hée made likewiſe very good vſe with the two laſt verſes of the 38. <hi>Pſalme. Forſake mee not O Lord, bee not thou farre from me my God.</hi>
+            </p>
+            <p>
+               <hi>Haſte thee to helpe me, O Lord of my ſaluation.</hi>
+            </p>
+            <p>Hence it appeareth that man conſiſteth of fleſh and ſpirit, that the old and new <hi>Adam</hi> dwelleth in him, and that theſe two are alwayes in combat one againſt another, as long as man liueth héere. And when man is caſt, by the Counſell of God, into the Ouen of miſery, and is tempted by the heate of the Croſſe, then Soule and Body, Fleſh and Spirit fight one againſt the other. The worldlings haue no féeling of
+<pb facs="tcp:294:13"/>
+ſuch a Spirituall combat, but Gods children féele the ſame euery day, and pray, <hi>O Lord, Leade vs not into temptation<g ref="char:punc">▪</g>
+               </hi> yet leade vs according vnto thy will, but deliuer vs ſoone from the Euill-one, and from all that might hinder our ſal<g ref="char:EOLhyphen"/>uation.</p>
+            <p>Hence it commeth that the true beléeuers when they féele ſuch a combat betwixt the Spirit and the Fleſh, or ſée and heare it in others, that they hould it for a good token, accor<g ref="char:EOLhyphen"/>ding vnto the ſaying of Saint <hi>Iames, Cap. 1. 2. My Brethren, count it exceeding ioy when you fall into diuers tentations.</hi> Alſo <hi>verſe 12. Bleſſed is the man that endureth tentation.</hi> The vnbeléeuing worldlings, and Hipocrites, who know not how wonderfully God dealeth with his Saints, hold it for an euill ſigne or token, and ſpeake with deriſion of it, which they would not doe if they vnderſtood the example of our Sauiour Ieſus Chriſt, who was tempted thrée times by the Diuell. Alſo, if they knew that all things doe turne good vnto thoſe that loue God. Alſo, that they muſt be made like vnto the Image of his Sonne, <hi>Rom. 8.</hi>
+            </p>
+            <p>Hence it fell out, that his Excellencie, beſides theſe excel<g ref="char:EOLhyphen"/>lent ſpeaches of conſolation (feeling in his heart the teſtimo<g ref="char:EOLhyphen"/>nie of Gods holy Spirit) did vtter ſometimes words of com<g ref="char:EOLhyphen"/>plaint and ſorrow, by the frailtie of his ſinnefull ſieſh, and of old <hi>Adam,</hi> yet ſought finally the victorie. Hée complayned ſometimes of the miſerie of this life, of the manifold ſinnes wherevnto the corrupt nature is ſubiect, of the fearefulneſſe of death, of the paines of hell, and ſaid: Ah I miſerable ſin<g ref="char:EOLhyphen"/>full man: O Lord haſt thou forgotten mée, wilt thou ſhew no more mercy? Is thy mercy turned to anger? &amp;c. euen as <hi>Dauid</hi> ſpeaketh in the 77. and 88. <hi>Pſalmes,</hi> Alſo my paines are too great, I can ſuffer them no longer.</p>
+            <p>And whereas theſe words did ſéeme to come from vnpa<g ref="char:EOLhyphen"/>tience againſt the gracious helpe of God, his Excellencie was comforted and admoniſhed by me and other aſſiſtants, with many good and holy ſentences, vnto Chriſtian pati<g ref="char:EOLhyphen"/>ence: it is not néede to ſet them downe here. His Excellencie
+<pb facs="tcp:294:14"/>
+did receiue this comfort, and did correct his former vnpati<g ref="char:EOLhyphen"/>ence with theſe words.</p>
+            <p>Ah, I doe prouoke my God vnto anger by my vnpatience, I will doe it no more. If I haue receiued from God good things, I will beare patiently the euill: hée will not forſake me, he hath not forſaken me yet, I will preſcribe vnto him no meaſure: forſake me not O Lord, that I forſake not thée. Beſides went on thus: Ah what a heauy battell is before me? wherevpon I told him, your Excellencie is now in the eſtate, wherein your Lord Ieſus Chriſt was when hee was in the agonie <hi>Luke 22. 44.</hi> the ſaid Lord Chriſt hath ouer-wonne, he calleth now vnto himſelfe, all thoſe that are wearie and laden, <hi>Mat. 11. 28.</hi> hee is the Captaine in this combat, follow you him with patience and faith, and no eni<g ref="char:EOLhyphen"/>my ſhall be able to hurt you.</p>
+            <p>His Excellencie did not feare death, for he was ready and willing to die, but onely the terror of it, ſetting death before his eyes (by the weakenes of the fleſh) as a fearefull Tyrant, and as the Gyant <hi>Goliah,</hi> who terrified the <hi>Iſraelites.</hi> But I comforted him immediately, as followeth. Death indéed was terrible becauſe of our ſinnes, but ſhe is no more hor<g ref="char:EOLhyphen"/>rible vnto thoſe that are in Ieſus Chriſt, for he (as the true <hi>Dauid</hi>) hath vanquiſhed death. Did not your Excellencie hetherto pray for a bleſſed end? Hath not Chriſt promiſed, that he will giue whatſoeuer we doe pray for vnto the Fa<g ref="char:EOLhyphen"/>ther in his name? <hi>Ioh. 16.</hi> Doeth not the 145. <hi>Pſalme</hi> ſay, that God doth what the good demaund? and the 12. God heareth the ſighes of the faithfull? and the 34. God deliuereth the righteous out of all feare. Your Excellencie will not tread vnder féete your prayers and déepe ſighes, for they are pierced through the cloudes. I will ſaith the Lord, vp, and ſet him at liberty, <hi>Pſal. 12.</hi> Beſides I propounded vnto his Excellencie the comfort of the <hi>1 Cor. 15. 55. O death where is thy ſting? O graue where is thy victorie?</hi> Hence I tooke occaſion to ſhew to compare the death of the faith<g ref="char:EOLhyphen"/>full, vnto a bold and proud Souldiour who hath no weapons,
+<pb facs="tcp:294:14"/>
+               <pb facs="tcp:294:15"/>
+               <pb facs="tcp:294:15"/>
+and whoſe threatnings are in vaine.</p>
+            <p>Theſe words tooke away that feare of his Excellencie, &amp; after diuers gronings, kéeping himſelfe quiet, he ſaid: One combat is now paſt: which words I heard with great ioy, and thanked God for it.</p>
+            <p>The Satterday drawing neare, his Excellencie was de<g ref="char:EOLhyphen"/>ſirous to ſpeake againe with his wife, and the Lady of <hi>Orange.</hi> They came preſently, and with them the Lady <hi>Charlotte Loyſe,</hi> hee ſpake with them in order, and they with comfortable ſpeaches and aboundance of teares tooke their leaue againe of him: he ſaid vnto his daughter <hi>Char<g ref="char:EOLhyphen"/>lotte,</hi> Well, my deare daughter, remember mee thy father, who alwayes intended to doe thée good, feare the Lord: be vertuous and honeſt, and no good ſhall faile thée.</p>
+            <p>On Satterday the 8. of <hi>Auguſt,</hi> did ſome of his Coun<g ref="char:EOLhyphen"/>cill aſke what they ſhould ſay vnto his louing Brother Count <hi>Albrecht,</hi> if it would pleaſe God to take his Excel<g ref="char:EOLhyphen"/>lencie vnto himſelfe, hée anſwered: Tell him good night, and let him know that I haue alwayes meant well and bro<g ref="char:EOLhyphen"/>therly, though he and ſome others could or would not al<g ref="char:EOLhyphen"/>wayes acknowledge the ſame. It néedes not to write of this matter any further.</p>
+            <p>His Excellencie charged them alſo to ſay farewell, in his name, vnto the Archbiſhop and Prince Elector of <hi>Ments,</hi> the Abbot of <hi>Fulda,</hi> the Count <hi>Wolffgang E<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſt</hi> of <hi>Hen<g ref="char:EOLhyphen"/>burgk,</hi> &amp;c. and told his Chamberlaine, by whom, and on what occaſion this ſhould be performed.</p>
+            <p>On this Satterday his Excellencie cauſed, for a time, all the aſſiſtants to void the chamber, and I remained alone with him, hée beganne to enter with mée into an holy diſ<g ref="char:EOLhyphen"/>courſe of the eſtate of the ſoules of the righteous in heauen, and how farre wée are bound, and able, as long as wée are in the militant Church, to pray for our ſelues and our bre<g ref="char:EOLhyphen"/>thren; yea, for all men: I made along diſcourſe hereof vn<g ref="char:EOLhyphen"/>to his Excellencie, wherein hée had a very good liking.</p>
+            <p>The greatneſſe of his paines made him to complaine,
+<pb facs="tcp:294:16"/>
+yet by my comfort did gather courage, and ſaid in Latine, <hi>Mors mea glorioſa erit,</hi> my death ſhall be glorious, as if hée would haue ſaid; What doe I trouble my ſelfe? all will be well and glorious.</p>
+            <p>On Satterday night, the Sunday approaching, and the houre of death drawing néere, a very great conflict was ſéene in him, and ſaid in his lamentations: Ah, God hath forgotten mée! it is vnpoſſible that I ſhould be ſuccoured, I cannot hold faſt your conſolations: thus turned himſelfe from mée, &amp; complained of an vnſpeakable heate and cold, &amp; how hée ſtood with one foote onely, vpon a high mountaine, and was to leape ouer a water that ſprung out of the moun<g ref="char:EOLhyphen"/>taine. Theſe wordes did much moue the hearts of the aſ<g ref="char:EOLhyphen"/>ſiſtants, and of mée likewiſe; chiefely becauſe his Excel<g ref="char:EOLhyphen"/>lencie ſaid that hée could not receiue my conſolations.</p>
+            <p>Héerevpon I tolde him that hée was to beare thoſe ſuf<g ref="char:EOLhyphen"/>frances, that made him complaine, as our Sauiour did vpon the Croſſe, <hi>My God, my God why haſt thou forſaken mee?</hi> and the Prophet <hi>Dauid, <hi>Pſalme 18.</hi> The ſorrowes of death compaſſed mee about, &amp;c.</hi> And whereas his Excellencie had turned himſelfe from me, and could not receiue comfort, I went to the bed, fell about his necke, and ſpake in great earneſt theſe words.</p>
+            <p>My gracious Lord, I beſéech and admoniſh your Excel<g ref="char:EOLhyphen"/>lencie to take to your heart my conſolations (which I ſhall draw out of Gods holy word) as from the Miniſter of Chriſt. It is now Satterday, the Sunday is at hand, then doe wée ſpeake in the Church, in the expoſition of the Catechiſme of the crucified Lord Ieſus Chriſt: let vs now alſo ſpeake of him. Theſe words moued his Excellencie to turne him<g ref="char:EOLhyphen"/>ſelfe againe towards me, and to giue eare vnto thoſe com<g ref="char:EOLhyphen"/>fortable grounds and ſentences which I did alledge out of Gods holy word, as the Lord at that time did put into my heart: and I did chiefely draw ſome meditations from the <hi>23. Pſalme,</hi> (in which Pſalme his Excellencie did much de<g ref="char:EOLhyphen"/>light, as wée ſaid before) ſaying, your Excellencie ſhall now
+<pb facs="tcp:294:16"/>
+bée brought vnto thoſe gréene Paſtures, and ſwéet waters, that refreſh the ſoule, whereby your ſoule, to the praiſe of God, ſhall alſo be quickned. It is true that the way vnto thoſe bleſſed Paſtures and ſprings, is a darke valley of death, full of thornes, the doore alſo is very narrow. But your Excellencie be of good chéere, for you haue hetherto courage<g ref="char:EOLhyphen"/>ouſly ouercome the thornes of ſinne, and the darkneſſe of the terible death, through Ieſus Chriſt, who is the light, the way, the truth and the life. Goe on fight on, in Ieſus Chriſts name, you are almoſt at the end, there remaineth but two ſteps, and two blowes, then all is woone. Your Excellency ſetteth now his right foote out of the darke and thornie valley, into the pleaſant paſtures of God. Ie<g ref="char:EOLhyphen"/>ſus Chriſt our Sauiour (who alſo went this way, yea, a farre painefuller) ſtandeth in the middeſt of theſe paſtures and the holy Angels with him, they wincke at you, and call you vnto them, and doe long to receiue you into their com<g ref="char:EOLhyphen"/>panie. There is prepared a Table for your Excellencie to ſit at, with <hi>Abraham, Iſaac,</hi> and <hi>Iacob:</hi> you ſhall drinke there the ouer-flowing Cuppe of Heauenly Ioy, your head ſhall be annointed with the true oyle of gladneſſe, ſée<g ref="char:EOLhyphen"/>ing you haue fought and ouer-come ſo valiantly in Ieſus Chriſt.</p>
+            <p>By theſe zealous ſpéeches, and other, was taken away the tentation and feare of Hell, through the grace of our Lord Chriſt, who permitteth vs not to be tempted aboue our abilitie and power. His Excellencie laid both his hands in my right hand, and I laid my left hand on his head, and thus gaue a very good attention vnto thoſe things which were alledged by mée.</p>
+            <p>The Phyſitians did admoniſh his Excellency to ſléepe, whereupon I ſaid, in the name of the Lord Chriſt doe I lay my hand on your head, I beſéech him to ſtrengthen and refreſh you. Thus hée tooke a little ſléepe, and I went out of the roome: but being awaked againe, I was called for, and his Excellencie ſaid vnto mée, that I ſhould lay againe my hand
+<pb facs="tcp:294:17"/>
+on his head in the name of the Lord Chriſt, I did it, and hée fell in ſléepe againe.</p>
+            <p>On Sunday about nine of the clocke in the morning, (which was the day of his deliuerance) ſomething was brought vnto him for to eate, and to get reſt, the Phyſiti<g ref="char:EOLhyphen"/>ans ſaid, that then all would be well. His Excellencie an<g ref="char:EOLhyphen"/>ſwered, if it ſhould be better after my ſléepe, then I deſire no more of this, onely I wiſh for ſo much ſtrength, that I may commit my ſoule vnto my Sauiour, and ſpeake yet once with my wife. Thus did wée voyde the roome in hope of reſt, leauing onely his Steward with him.</p>
+            <p>When wée thought that his Excellencie tooke reſt, Loe, his Steward knéeled before his bedde, and ſayd with his Ex<g ref="char:EOLhyphen"/>cellencie the Lords Prayer. Wée being entred his Excel<g ref="char:EOLhyphen"/>lencie lift vp his head and eyes, and cryed out with a ioyfull voyce, Now am I once deliuered, and ſtroke his breaſt with his hand, ſaying: O déere hart, how haſt thou béene tormen<g ref="char:EOLhyphen"/>ted and martyred? thou ſhalt now be comforted. Then cal<g ref="char:EOLhyphen"/>led he for his Wife, but for certaine reaſons, and for to decline thoſe heauy lamentations, it was not done. Then ſayd his Excellencie vnto his Steward, bid my Wife good-morrow, and tell her I leaue this world ioyfully and willingly.</p>
+            <p>The Bell rung for the Sermon in the olde Citie: his Excellencie ſaid, Neuer did that Bell ſound ſo in my eares as now it doth: I anſwered, This Bell calleth your Ex<g ref="char:EOLhyphen"/>cellencie now, to the ſong of Angels, of which you told mée before yeſterday. Then ſaid his Excellencie, Well, Let vs ſing: thus layd downe his head, and began to ſing the ſong of the Angels, <hi>Luke 2.</hi> (which is vſed in the Germane Churches) <hi>Glory be to God in the high heauens, &amp;c.</hi> Wée followed after him. Then began his Excellencie to ſing the <hi>118. Pſalme, verſe 24.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>This is the ioyfull day indeed,</l>
+                  <l>Which God himſelfe hath wrought,</l>
+                  <l>Let vs be glad and ioy therein,</l>
+                  <l>In hart, in minde and thought.</l>
+               </lg>
+            </q>
+            <p>
+               <pb facs="tcp:294:17"/>
+Wée followed againe, with a low and weare voyce.
+Then came his Excellencie to the <hi>116. Pſalme:</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>I loue the Lord becauſe my voyce,</l>
+                  <l>And prayer heard hath hee, &amp;c.</l>
+               </lg>
+            </q>
+            <p>Thus was to be ſéene the Spirit of Adoption in the hart of his Excellencie.</p>
+            <p>And when wée ſpake together for to prepare our ſelues to prayer, His Excellencie noted the ſame, and commanded vs to knéele downe, and to pray: hee repeated euery word zealouſly, but chiefely the Lords Prayer, and the Articles of Chriſtian faith: and when thoſe that were about him did comfort his Excellencie with ſome good ſentence, he repeated the ſame after them, as long as his tongue could doe it.</p>
+            <p>I feared that too much ſpeach might haue hindered his Excellencie, therefore I brake of, and after a while rehear<g ref="char:EOLhyphen"/>ſed vnto him the words of our Sauiour, <hi>Ioh. 3. God ſo loued the world that he hath giuen his onely begotten ſonne, &amp;c.</hi> And I aſked whether his Excellencie vnderſtood them: then hée turned his eyes on mée and ſayd the word, I haue told it. Theſe ſhort words did I report vnto the aſſiſtants, and ad<g ref="char:EOLhyphen"/>ded, that his Excellencie had aboundantly declared which was his Faith, Hope, and Comfort, wherein hée liued and now was to dye, namely, the onely begotten Sonne of God.</p>
+            <p>Beſides this, I cryed often vnto his Ercellencie theſe words. O Lord Ieſus Chriſt, I commit my Spirit into thy hands, thou haſt deliuered mée, thou true and faithfull God. Whileſt this was repeated vnto his Excellencie he rendred his ſpirit quietly, and bleſſedly. The words of our Sauiour, wherewithall I comforted him at his laſt houre, were before (without my knowledge) propounded vnto him by the La<g ref="char:EOLhyphen"/>dy of <hi>Orange,</hi> and by himſelfe written in his Germane Bi<g ref="char:EOLhyphen"/>ble, ſo that by Gods prouidence the ſame were alleadged by mée: for he entended to dye therein both willingly and happily.</p>
+            <p>
+               <pb facs="tcp:294:18"/>Thus departed his Excellencie, after the ending of the Sermon in the old Church, and the Prayer conceined for his Excellencie and other Chriſtian Maieſtrates.</p>
+            <p>And this is the plaine and true relation of the bleſſed de<g ref="char:EOLhyphen"/>parture of his Excellencie, out of this wicked world, from whence wée haue to take inſtruction and example to liue ac<g ref="char:EOLhyphen"/>cording vnto Gods holy will, preparing our ſelues, as he did, tunely, with true Faith, Hope, and Loue, that when the howre of death comes, wée may in Chriſtian patience depart well comforted, both willingly and bleſſedly. This graunt vnto mée and all beléeuers, the father of mercy by his holy Spirit, for the onely propitiatorie Sacrifice of his deare Sonne, and our Sauiour Ieſus Chriſt.</p>
+            <closer>Amen.</closer>
+            <epigraph>
+               <bibl>MATTHEVV 10. 22.</bibl>
+               <q>Hee that endureth to the end, hee ſhall be ſaued.</q>
+            </epigraph>
+            <epigraph>
+               <bibl>APOCCALIPSE 2. 7.</bibl>
+               <q>To him that ouercommeth will I giue to eate of the tree of life, which is in the middeſt of the Paradiſe of God.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:294:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
